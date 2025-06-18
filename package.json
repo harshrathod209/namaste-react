@@ -1,0 +1,28 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is namaste react a brief react learning course",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshrathod209/namaste-react.git"
+  },
+  "author": "Harsh Rathod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshrathod209/namaste-react/issues"
+  },
+  "homepage": "https://github.com/harshrathod209/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.15.2"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browsersList": [
+    "last 2 versions"
+  ]
+}
